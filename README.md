@@ -1,4 +1,4 @@
-# js-advance--closure-prototype-etc
+# js-advance--closure-prototype, IIFE -etc
 Advance ES5 - Closure, Prototype, IIFE etc
 
 ...................................................................................................................................
